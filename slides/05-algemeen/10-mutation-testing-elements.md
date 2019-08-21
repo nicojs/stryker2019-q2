@@ -25,7 +25,7 @@ Dé industriestandaard voor mutation testing resultaten
 
 Dé HTML rapportage voor mutation testing.
 
-* Nu met Emojs!
+* Nu met Emojis!
 
 ![report-emoj.png](img/report-emoj.png)
 
