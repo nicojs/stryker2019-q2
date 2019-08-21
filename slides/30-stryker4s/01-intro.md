@@ -1,3 +1,3 @@
 # Stryker4s
 
-![scala-days](../../img/scala-days.jpg)
+![scala-days](/img/scala-days.jpg)

@@ -1,6 +1,6 @@
 ## Update
 
-![stryker4s-downloads](../../img/stryker4s-downloads.png)
+![stryker4s-downloads](/img/stryker4s-downloads.png)
 
 - Aantal downloads: ❓🤔❓
   - https://github.com/sbt/sbt/issues/3879
