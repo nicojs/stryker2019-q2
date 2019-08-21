@@ -15,7 +15,8 @@ Doel: Dé plaats voor mutation testing dashboards.
 
 Bijna af 🙊
 
-* Backend implementatie voor rapportages is af
+* CI/CD bijna af
+* Backend implementatie voor rapportages is bijna af
 * Front end werk bijna af
 
 ---
